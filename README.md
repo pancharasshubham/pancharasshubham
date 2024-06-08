@@ -23,9 +23,9 @@
 <p align="left">💌How to reach me: pancharasshubh@gmail.com</p>
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/pancharasshubham/pancharasshubham/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <div align="left">
